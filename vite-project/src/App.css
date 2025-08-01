@@ -26,7 +26,7 @@
 }
 
 .nav a:hover {
-  text-decoration: underline;
+  background-color: #c81b1b;
 }
 
 /* Mobile menu toggle button */

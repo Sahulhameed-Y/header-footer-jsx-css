@@ -18,8 +18,8 @@ function Footer() {
         </div>
         <div className="footer-section">
           <h3>Contact</h3>
-          <p>Email: info@example.com</p>
-          <p>Phone: +123 456 7890</p>
+          <p>Email: sh4304413@gmail.com</p>
+          <p>Phone: 9344762175</p>
         </div>
       </div>
       <div className="footer-bottom">
